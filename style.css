@@ -67,7 +67,7 @@ html {
 }
 
 #home {
-    background-image: url(/bg.jpg);
+    background-image: url(bg.jpg);
 }
 
 .menu-item:hover,
@@ -382,7 +382,7 @@ section {
 @media only screen and (max-width: 600px) {
 
     #home {
-        background-image: url(/bgmobile.png);
+        background-image: url(bgmobile.png);
     }
 
     * {
